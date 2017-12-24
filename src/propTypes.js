@@ -9,6 +9,7 @@ export default {
   showPaginationBottom: PropTypes.bool,
   showPageSizeOptions: PropTypes.bool,
   pageSizeOptions: PropTypes.array,
+  defaultPage: PropTypes.number,
   defaultPageSize: PropTypes.number,
   showPageJump: PropTypes.bool,
   collapseOnSortingChange: PropTypes.bool,
